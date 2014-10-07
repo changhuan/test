@@ -1,0 +1,22 @@
+1. update the source.
+	sudo apt-get update
+2. install git.
+	sudo apt-get install git
+	github: changhuan_good@126.com
+	passwd: huan1006
+	config the public key on github
+	use git
+		git clone projectname/url
+		git status
+		git add filename
+		git commit -m "comment"
+		git push origin master
+		git pull origin master
+
+3. config vim
+	add .vim folder and .vimrc file to /home/changhuan/
+	i/o insert mode
+	esc ordinary mode
+	:wq save and exit
+	ordinary mode use dd to delete one line.
+
