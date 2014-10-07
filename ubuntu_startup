@@ -1,4 +1,4 @@
-1. update the source.更新源.
+1. update the source.
 	sudo apt-get update
 2. install git.
 	sudo apt-get install git
